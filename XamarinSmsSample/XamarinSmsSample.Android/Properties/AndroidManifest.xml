@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.companyname.xamarinsmssample">
+    <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="31" />
+    <application android:label="XamarinSmsSample.Android" android:theme="@style/MainTheme"></application>
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+</manifest>
